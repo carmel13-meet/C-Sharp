@@ -1,0 +1,5 @@
+/Users/Carmel/Desktop/School/CS/C#/28.10.13/28.10.13/obj/x86/Release/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/Users/Carmel/Desktop/School/CS/C#/28.10.13/28.10.13/bin/Release/28.10.13.exe.mdb
+/Users/Carmel/Desktop/School/CS/C#/28.10.13/28.10.13/bin/Release/28.10.13.exe
+/Users/Carmel/Desktop/School/CS/C#/28.10.13/28.10.13/obj/x86/Release/28.10.13.exe
+/Users/Carmel/Desktop/School/CS/C#/28.10.13/28.10.13/obj/x86/Release/28.10.13.exe.mdb

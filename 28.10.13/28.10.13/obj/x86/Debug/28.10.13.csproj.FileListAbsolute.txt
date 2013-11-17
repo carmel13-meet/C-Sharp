@@ -1,0 +1,5 @@
+N:\Carmel and Tsarfati\28.10.13\28.10.13\obj\x86\Debug\ResolveAssemblyReference.cache
+N:\Carmel and Tsarfati\28.10.13\28.10.13\bin\Debug\28.10.13.exe
+N:\Carmel and Tsarfati\28.10.13\28.10.13\bin\Debug\28.10.13.pdb
+N:\Carmel and Tsarfati\28.10.13\28.10.13\obj\x86\Debug\28.10.13.exe
+N:\Carmel and Tsarfati\28.10.13\28.10.13\obj\x86\Debug\28.10.13.pdb
