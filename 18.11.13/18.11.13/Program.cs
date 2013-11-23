@@ -23,38 +23,45 @@ namespace _18._11._13
             //    Console.WriteLine(ariel);
             //}
 
-            ////Targil 9
-            //for (char ariel = 'a'; ariel <= 'z';)
-            //{
-            //    Console.WriteLine(ariel);
-            //}
+            //Targil 9
+            int count = 0;
+            char carmel = 'a';
+            for (char ariel = 'a'; ariel <= 'z'; ariel++)
+            {
+                count++;
+                if (count % 2 != 0)
+                {
+                    carmel = ariel;
+                    Console.WriteLine(carmel);
+                }
+            }
 
             //Targil 11
-            for (int i=2; i<=20; i+=2)
-                Console.Write(i + " ");
+            //for (int i=2; i<=20; i+=2)
+            //    Console.Write(i + " ");
 
-            Console.WriteLine();
-            Console.WriteLine();
+            //Console.WriteLine();
+            //Console.WriteLine();
 
-            for (int i=3; i<=20; i+=3)
-                Console.Write(i + " ");
+            //for (int i=3; i<=20; i+=3)
+            //    Console.Write(i + " ");
 
-            Console.WriteLine();
-            Console.WriteLine();
+            //Console.WriteLine();
+            //Console.WriteLine();
 
-            for (int i=4; i<=20; i+=4)
-                Console.Write(i + " ");
+            //for (int i=4; i<=20; i+=4)
+            //    Console.Write(i + " ");
 
-            Console.WriteLine();
-            Console.WriteLine();
+            //Console.WriteLine();
+            //Console.WriteLine();
 
             //Targil 19
 
-            int temperature=0;
-            for (int day = 1; day <= 30; day++)
-            {
+            //int temperature=0;
+            //for (int day = 1; day <= 30; day++)
+            //{
 
-            }
+            //}
 
 
         }
