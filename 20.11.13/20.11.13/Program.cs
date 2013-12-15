@@ -17,15 +17,22 @@ namespace _20._11._13
             int number = int.Parse(Console.ReadLine());
             Console.WriteLine();
             int sum = 0;
+
+
             for (int i = 1; i <= number / 2; i++)
             {
                 if (number % i == 0)
                 {
                     sum += i;
+                    Console.WriteLine("i = " + i);
                 }
+               
+                //Console.WriteLine("sum = " + sum);
             }
             if (sum == 1)
                 Console.Write("This is mispar rishoni");
+            if (number == sum)
+                Console.Write("This is mispar meshuchlal");
             else
                 Console.Write("This is not mispar rishoni");
 

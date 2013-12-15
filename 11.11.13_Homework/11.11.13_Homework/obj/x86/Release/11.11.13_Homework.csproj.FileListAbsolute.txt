@@ -8,3 +8,8 @@ C:\Users\Carmel\Desktop\הנדסת תוכנה\C#\11.11.13_Homework\11.11.13_Home
 C:\Users\Carmel\Desktop\הנדסת תוכנה\C#\11.11.13_Homework\11.11.13_Homework\bin\Release\11.11.13_Homework.exe
 C:\Users\Carmel\Desktop\הנדסת תוכנה\C#\11.11.13_Homework\11.11.13_Homework\bin\Release\11.11.13_Homework.pdb
 C:\Users\Carmel\Desktop\הנדסת תוכנה\C#\11.11.13_Homework\11.11.13_Homework\obj\x86\Release\ResolveAssemblyReference.cache
+E:\הנדסת תוכנה\C Sharp\11.11.13_Homework\11.11.13_Homework\obj\x86\Release\11.11.13_Homework.exe
+E:\הנדסת תוכנה\C Sharp\11.11.13_Homework\11.11.13_Homework\obj\x86\Release\11.11.13_Homework.pdb
+E:\הנדסת תוכנה\C Sharp\11.11.13_Homework\11.11.13_Homework\bin\Release\11.11.13_Homework.exe
+E:\הנדסת תוכנה\C Sharp\11.11.13_Homework\11.11.13_Homework\bin\Release\11.11.13_Homework.pdb
+E:\הנדסת תוכנה\C Sharp\11.11.13_Homework\11.11.13_Homework\obj\x86\Release\ResolveAssemblyReference.cache

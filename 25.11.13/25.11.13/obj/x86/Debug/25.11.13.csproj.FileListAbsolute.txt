@@ -1,0 +1,5 @@
+E:\הנדסת תוכנה\C Sharp\25.11.13\25.11.13\bin\Debug\25.11.13.exe
+E:\הנדסת תוכנה\C Sharp\25.11.13\25.11.13\bin\Debug\25.11.13.pdb
+E:\הנדסת תוכנה\C Sharp\25.11.13\25.11.13\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\הנדסת תוכנה\C Sharp\25.11.13\25.11.13\obj\x86\Debug\25.11.13.exe
+E:\הנדסת תוכנה\C Sharp\25.11.13\25.11.13\obj\x86\Debug\25.11.13.pdb

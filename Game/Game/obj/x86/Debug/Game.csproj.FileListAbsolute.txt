@@ -1,0 +1,24 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Game\Game\bin\Debug\Game.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Game\Game\bin\Debug\Game.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Game\Game\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Game\Game\obj\x86\Debug\Game.Form1.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Game\Game\obj\x86\Debug\Game.Properties.Resources.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Game\Game\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Game\Game\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Game\Game\obj\x86\Debug\Game.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Game\Game\obj\x86\Debug\Game.pdb
+Y:\CS\C Sharp\Game\Game\obj\x86\Debug\Game.exe
+Y:\CS\C Sharp\Game\Game\obj\x86\Debug\Game.pdb
+I:\C Sharp\Game\Game\obj\x86\Debug\Game.exe
+I:\C Sharp\Game\Game\obj\x86\Debug\Game.pdb
+E:\C Sharp\Game\Game\obj\x86\Debug\Game.exe
+E:\C Sharp\Game\Game\obj\x86\Debug\Game.pdb
+F:\C Sharp\Game\Game\obj\x86\Debug\Game.exe
+F:\C Sharp\Game\Game\obj\x86\Debug\Game.pdb
+F:\C Sharp\Game\Game\bin\Debug\Game.exe
+F:\C Sharp\Game\Game\bin\Debug\Game.pdb
+F:\C Sharp\Game\Game\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\C Sharp\Game\Game\obj\x86\Debug\Game.Form1.resources
+F:\C Sharp\Game\Game\obj\x86\Debug\Game.Properties.Resources.resources
+F:\C Sharp\Game\Game\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\C Sharp\Game\Game\obj\x86\Debug\GenerateResource.write.1.tlog

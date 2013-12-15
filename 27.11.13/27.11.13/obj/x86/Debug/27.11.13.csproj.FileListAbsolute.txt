@@ -1,0 +1,13 @@
+E:\CS\C Sharp\27.11.13\27.11.13\bin\Debug\27.11.13.exe
+E:\CS\C Sharp\27.11.13\27.11.13\bin\Debug\27.11.13.pdb
+E:\CS\C Sharp\27.11.13\27.11.13\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\CS\C Sharp\27.11.13\27.11.13\obj\x86\Debug\_27._11._13.Form1.resources
+E:\CS\C Sharp\27.11.13\27.11.13\obj\x86\Debug\_27._11._13.Properties.Resources.resources
+E:\CS\C Sharp\27.11.13\27.11.13\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\CS\C Sharp\27.11.13\27.11.13\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\CS\C Sharp\27.11.13\27.11.13\obj\x86\Debug\27.11.13.exe
+E:\CS\C Sharp\27.11.13\27.11.13\obj\x86\Debug\27.11.13.pdb
+Y:\CS\C Sharp\27.11.13\27.11.13\obj\x86\Debug\27.11.13.exe
+Y:\CS\C Sharp\27.11.13\27.11.13\obj\x86\Debug\27.11.13.pdb
+E:\C Sharp\27.11.13\27.11.13\obj\x86\Debug\27.11.13.exe
+E:\C Sharp\27.11.13\27.11.13\obj\x86\Debug\27.11.13.pdb
