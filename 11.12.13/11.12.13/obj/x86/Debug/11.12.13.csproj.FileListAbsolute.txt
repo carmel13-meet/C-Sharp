@@ -3,3 +3,8 @@ E:\C Sharp\11.12.13\11.12.13\bin\Debug\11.12.13.pdb
 E:\C Sharp\11.12.13\11.12.13\obj\x86\Debug\ResolveAssemblyReference.cache
 E:\C Sharp\11.12.13\11.12.13\obj\x86\Debug\11.12.13.exe
 E:\C Sharp\11.12.13\11.12.13\obj\x86\Debug\11.12.13.pdb
+F:\C Sharp\11.12.13\11.12.13\obj\x86\Debug\11.12.13.exe
+F:\C Sharp\11.12.13\11.12.13\obj\x86\Debug\11.12.13.pdb
+F:\C Sharp\11.12.13\11.12.13\bin\Debug\11.12.13.exe
+F:\C Sharp\11.12.13\11.12.13\bin\Debug\11.12.13.pdb
+F:\C Sharp\11.12.13\11.12.13\obj\x86\Debug\ResolveAssemblyReference.cache

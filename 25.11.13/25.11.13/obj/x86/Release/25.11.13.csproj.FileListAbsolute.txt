@@ -8,3 +8,5 @@ Y:\CS\C Sharp\25.11.13\25.11.13\obj\x86\Release\25.11.13.pdb
 Y:\CS\C Sharp\25.11.13\25.11.13\bin\Release\25.11.13.exe
 Y:\CS\C Sharp\25.11.13\25.11.13\bin\Release\25.11.13.pdb
 Y:\CS\C Sharp\25.11.13\25.11.13\obj\x86\Release\ResolveAssemblyReference.cache
+F:\C Sharp\25.11.13\25.11.13\obj\x86\Release\25.11.13.exe
+F:\C Sharp\25.11.13\25.11.13\obj\x86\Release\25.11.13.pdb

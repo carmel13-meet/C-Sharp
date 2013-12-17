@@ -27,48 +27,48 @@ namespace _9._12._13
             //Console.WriteLine("The mod is {0}", mod);
 
             Console.Write("Computer grade: "); 
-            int computers = int.Parse(Console.ReadLine());
+            int comp = int.Parse(Console.ReadLine());
             Console.Write("English grade: "); 
-            int english = int.Parse(Console.ReadLine());
+            int eng = int.Parse(Console.ReadLine());
             Console.Write("Math grade: "); 
             int math = int.Parse(Console.ReadLine());
-            int average = 0;
+            int avg = 0;
             int count = 0;
-            int smallestComputers = 100;
+            int minComp = 100;
             int count2 = 0;
-            int highestMath = 0;
+            int maxMath = 0;
             int count3 = 0;
-            int sumEnglish = 0;
-            int averageEnglish = 0;
-            while ((computers >= 0 && computers <= 100) && (english >= 0 && english <= 100) && (math >= 0 && math <= 100))
+            int sumEng = 0;
+            int avgEng = 0;
+            while ((comp >= 0 && comp <= 100) && (eng >= 0 && eng <= 100) && (math >= 0 && math <= 100))
             {
                 count++;
-                average = (computers + english + math) / 3;
-                if (average < 55)
+                avg = (comp + eng + math) / 3;
+                if (avg < 55)
                 {
-                    Console.WriteLine("Look at your grades!! an average of {0}??? are you kidding me?!?! , You have failed...", average);
+                    Console.WriteLine("Look at your grades!! an average of {0}??? are you kidding me?!?! , You have failed...", avg);
                 }
-                if (computers < smallestComputers)
+                if (comp < minComp)
                 {
-                    smallestComputers = computers;
+                    minComp = comp;
                     count2 = count;
                 }
-                if (math > highestMath)
+                if (math > maxMath)
                 {
-                    highestMath = math;
+                    maxMath = math;
                     count3 = count;
                 }
-                sumEnglish += english;
+                sumEng += eng;
                 Console.Write("Would you like to continue ? (Y/N) "); string answer = Console.ReadLine();
                 if (answer == "Y" || answer == "y")
                     continue;
                 if (answer == "n" || answer == "N")
                     break;
             }
-            averageEnglish = sumEnglish / count;
-            Console.WriteLine("The student who got the lower grade in computers is student #{0}, his grade was {1}", count2, smallestComputers);
-            Console.WriteLine("The highest grade in math is {0}", highestMath);
-            Console.WriteLine("The average of english is {0}", averageEnglish);
+            avgEng = sumEng / count;
+            Console.WriteLine("The student who got the lower grade in computers is student #{0}, his grade was {1}", count2, minComp);
+            Console.WriteLine("The highest grade in math is {0}", maxMath);
+            Console.WriteLine("The average of english is {0}", avgEng);
            
             
         }
