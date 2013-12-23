@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{D5DDDA78-EB33-488D-9697-C6BE9E7F52C3}</ProjectGuid>
+    <ProjectGuid>{3807FFE3-BD9E-437E-B97A-559016CB38B1}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_11._11._13_Homework</RootNamespace>
-    <AssemblyName>11.11.13_Homework</AssemblyName>
+    <RootNamespace>_18._12._13</RootNamespace>
+    <AssemblyName>18.12.13</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>

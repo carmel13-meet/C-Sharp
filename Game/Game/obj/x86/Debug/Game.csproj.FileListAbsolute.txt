@@ -22,3 +22,12 @@ F:\C Sharp\Game\Game\obj\x86\Debug\Game.Form1.resources
 F:\C Sharp\Game\Game\obj\x86\Debug\Game.Properties.Resources.resources
 F:\C Sharp\Game\Game\obj\x86\Debug\GenerateResource.read.1.tlog
 F:\C Sharp\Game\Game\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\C Sharp\Game\Game\obj\x86\Debug\Game.exe
+G:\C Sharp\Game\Game\obj\x86\Debug\Game.pdb
+G:\C Sharp\Game\Game\bin\Debug\Game.exe
+G:\C Sharp\Game\Game\bin\Debug\Game.pdb
+G:\C Sharp\Game\Game\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\C Sharp\Game\Game\obj\x86\Debug\Game.Form1.resources
+G:\C Sharp\Game\Game\obj\x86\Debug\Game.Properties.Resources.resources
+G:\C Sharp\Game\Game\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\C Sharp\Game\Game\obj\x86\Debug\GenerateResource.write.1.tlog

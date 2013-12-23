@@ -1,0 +1,12 @@
+G:\C Sharp\18.12.13\18.12.13\bin\Debug\18.12.13.exe
+G:\C Sharp\18.12.13\18.12.13\bin\Debug\18.12.13.pdb
+G:\C Sharp\18.12.13\18.12.13\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\C Sharp\18.12.13\18.12.13\obj\x86\Debug\18.12.13.exe
+G:\C Sharp\18.12.13\18.12.13\obj\x86\Debug\18.12.13.pdb
+Y:\C Sharp\18.12.13\18.12.13\obj\x86\Debug\18.12.13.exe
+Y:\C Sharp\18.12.13\18.12.13\obj\x86\Debug\18.12.13.pdb
+Y:\C Sharp\18.12.13\18.12.13\bin\Debug\18.12.13.exe
+Y:\C Sharp\18.12.13\18.12.13\bin\Debug\18.12.13.pdb
+Y:\C Sharp\18.12.13\18.12.13\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C Sharp\18.12.13\18.12.13\obj\x86\Debug\18.12.13.exe
+E:\C Sharp\18.12.13\18.12.13\obj\x86\Debug\18.12.13.pdb
