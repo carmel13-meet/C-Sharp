@@ -1,0 +1,10 @@
+E:\C Sharp\26.12.13 - Tsarfati's BD\26.12.13\bin\Debug\26.12.13.exe
+E:\C Sharp\26.12.13 - Tsarfati's BD\26.12.13\bin\Debug\26.12.13.pdb
+E:\C Sharp\26.12.13 - Tsarfati's BD\26.12.13\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C Sharp\26.12.13 - Tsarfati's BD\26.12.13\obj\x86\Debug\26.12.13.exe
+E:\C Sharp\26.12.13 - Tsarfati's BD\26.12.13\obj\x86\Debug\26.12.13.pdb
+F:\C Sharp\26.12.13 - Tsarfati's BD\26.12.13\obj\x86\Debug\26.12.13.exe
+F:\C Sharp\26.12.13 - Tsarfati's BD\26.12.13\obj\x86\Debug\26.12.13.pdb
+F:\C Sharp\26.12.13 - Tsarfati's BD\26.12.13\bin\Debug\26.12.13.exe
+F:\C Sharp\26.12.13 - Tsarfati's BD\26.12.13\bin\Debug\26.12.13.pdb
+F:\C Sharp\26.12.13 - Tsarfati's BD\26.12.13\obj\x86\Debug\ResolveAssemblyReference.cache

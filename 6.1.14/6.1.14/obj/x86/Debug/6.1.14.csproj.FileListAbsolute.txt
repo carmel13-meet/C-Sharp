@@ -1,0 +1,5 @@
+E:\C Sharp\6.1.14\6.1.14\bin\Debug\6.1.14.exe
+E:\C Sharp\6.1.14\6.1.14\bin\Debug\6.1.14.pdb
+E:\C Sharp\6.1.14\6.1.14\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C Sharp\6.1.14\6.1.14\obj\x86\Debug\6.1.14.exe
+E:\C Sharp\6.1.14\6.1.14\obj\x86\Debug\6.1.14.pdb

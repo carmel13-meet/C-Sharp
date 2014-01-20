@@ -1,0 +1,5 @@
+F:\C Sharp\8.1.14_Homework\8.1.14_Homework\bin\Debug\8.1.14_Homework.exe
+F:\C Sharp\8.1.14_Homework\8.1.14_Homework\bin\Debug\8.1.14_Homework.pdb
+F:\C Sharp\8.1.14_Homework\8.1.14_Homework\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\C Sharp\8.1.14_Homework\8.1.14_Homework\obj\x86\Debug\8.1.14_Homework.exe
+F:\C Sharp\8.1.14_Homework\8.1.14_Homework\obj\x86\Debug\8.1.14_Homework.pdb

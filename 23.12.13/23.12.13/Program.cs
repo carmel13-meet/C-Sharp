@@ -88,22 +88,19 @@ namespace _23._12._13
             
             //תרגיל 33
 
-            //Console.Write("Enter a number: ");
-            //double num = double.Parse(Console.ReadLine());
-            //double firstNum = 0;
-            //int count = 0;
-            //while (num != 0)
-            //{
-            //    for (int i = 0; i < 2; i++)
-            //    {
-            //        firstNum = num;
-            //        Console.Write("Enter a number: ");
-            //        num = double.Parse(Console.ReadLine());
-            //    }
-            //    if (firstNum > num)
-            //        count++;
-            //}
-            //Console.WriteLine("Count = {0}", count);
+            Console.Write("Enter a number: ");
+            double num = double.Parse(Console.ReadLine());
+            double firstNum = num;
+            int count = 0;
+            while (num != 0)
+            {
+                if (firstNum > num)
+                    count++;
+                firstNum = num;
+                Console.Write("Enter a number: ");
+                num = double.Parse(Console.ReadLine());
+            }
+            Console.WriteLine("Count = {0}", count);
 
             //תרגיל 34
 
@@ -174,7 +171,7 @@ namespace _23._12._13
 
             //תרגיל 37
 
-            Console.Write("Enter a number: ");
+            //Console.Write("Enter a number: ");
 
         }
     }

@@ -1,0 +1,11 @@
+E:\C Sharp\1.1.14\1.1.14\bin\Debug\1.1.14.exe
+E:\C Sharp\1.1.14\1.1.14\bin\Debug\1.1.14.pdb
+E:\C Sharp\1.1.14\1.1.14\bin\Debug\Unit4.dll
+E:\C Sharp\1.1.14\1.1.14\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C Sharp\1.1.14\1.1.14\obj\x86\Debug\1.1.14.exe
+E:\C Sharp\1.1.14\1.1.14\obj\x86\Debug\1.1.14.pdb
+F:\C Sharp\1.1.14\1.1.14\obj\x86\Debug\1.1.14.exe
+F:\C Sharp\1.1.14\1.1.14\obj\x86\Debug\1.1.14.pdb
+F:\C Sharp\1.1.14\1.1.14\bin\Debug\1.1.14.exe
+F:\C Sharp\1.1.14\1.1.14\bin\Debug\1.1.14.pdb
+F:\C Sharp\1.1.14\1.1.14\obj\x86\Debug\ResolveAssemblyReference.cache

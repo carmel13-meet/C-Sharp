@@ -1,0 +1,10 @@
+N:\Carmel and Tsarfati\13.1.14\13.1.14\bin\Debug\13.1.14.exe
+N:\Carmel and Tsarfati\13.1.14\13.1.14\bin\Debug\13.1.14.pdb
+N:\Carmel and Tsarfati\13.1.14\13.1.14\obj\x86\Debug\ResolveAssemblyReference.cache
+N:\Carmel and Tsarfati\13.1.14\13.1.14\obj\x86\Debug\13.1.14.exe
+N:\Carmel and Tsarfati\13.1.14\13.1.14\obj\x86\Debug\13.1.14.pdb
+E:\C Sharp\13.1.14\13.1.14\obj\x86\Debug\13.1.14.exe
+E:\C Sharp\13.1.14\13.1.14\obj\x86\Debug\13.1.14.pdb
+E:\C Sharp\13.1.14\13.1.14\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C Sharp\13.1.14\13.1.14\bin\Debug\13.1.14.exe
+E:\C Sharp\13.1.14\13.1.14\bin\Debug\13.1.14.pdb

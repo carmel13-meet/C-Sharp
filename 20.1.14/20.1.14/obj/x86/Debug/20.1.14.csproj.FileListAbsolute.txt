@@ -1,0 +1,7 @@
+E:\C Sharp\20.1.14\20.1.14\bin\Debug\20.1.14.exe
+E:\C Sharp\20.1.14\20.1.14\bin\Debug\20.1.14.pdb
+E:\C Sharp\20.1.14\20.1.14\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C Sharp\20.1.14\20.1.14\obj\x86\Debug\20.1.14.exe
+E:\C Sharp\20.1.14\20.1.14\obj\x86\Debug\20.1.14.pdb
+F:\C Sharp\20.1.14\20.1.14\obj\x86\Debug\20.1.14.exe
+F:\C Sharp\20.1.14\20.1.14\obj\x86\Debug\20.1.14.pdb
