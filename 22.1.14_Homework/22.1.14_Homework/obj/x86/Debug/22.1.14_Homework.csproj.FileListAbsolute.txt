@@ -1,0 +1,10 @@
+F:\C Sharp\22.1.14_Homework\22.1.14_Homework\bin\Debug\22.1.14_Homework.exe
+F:\C Sharp\22.1.14_Homework\22.1.14_Homework\bin\Debug\22.1.14_Homework.pdb
+F:\C Sharp\22.1.14_Homework\22.1.14_Homework\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\C Sharp\22.1.14_Homework\22.1.14_Homework\obj\x86\Debug\22.1.14_Homework.exe
+F:\C Sharp\22.1.14_Homework\22.1.14_Homework\obj\x86\Debug\22.1.14_Homework.pdb
+I:\C Sharp\22.1.14_Homework\22.1.14_Homework\obj\x86\Debug\22.1.14_Homework.exe
+I:\C Sharp\22.1.14_Homework\22.1.14_Homework\obj\x86\Debug\22.1.14_Homework.pdb
+I:\C Sharp\22.1.14_Homework\22.1.14_Homework\bin\Debug\22.1.14_Homework.exe
+I:\C Sharp\22.1.14_Homework\22.1.14_Homework\bin\Debug\22.1.14_Homework.pdb
+I:\C Sharp\22.1.14_Homework\22.1.14_Homework\obj\x86\Debug\ResolveAssemblyReference.cache

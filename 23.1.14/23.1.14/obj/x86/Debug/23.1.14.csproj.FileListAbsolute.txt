@@ -1,0 +1,5 @@
+I:\C Sharp\23.1.14\23.1.14\bin\Debug\23.1.14.exe
+I:\C Sharp\23.1.14\23.1.14\bin\Debug\23.1.14.pdb
+I:\C Sharp\23.1.14\23.1.14\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\C Sharp\23.1.14\23.1.14\obj\x86\Debug\23.1.14.exe
+I:\C Sharp\23.1.14\23.1.14\obj\x86\Debug\23.1.14.pdb

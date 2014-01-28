@@ -1,0 +1,10 @@
+E:\C Sharp\27.1.14\27.1.14\bin\Debug\27.1.14.exe
+E:\C Sharp\27.1.14\27.1.14\bin\Debug\27.1.14.pdb
+E:\C Sharp\27.1.14\27.1.14\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C Sharp\27.1.14\27.1.14\obj\x86\Debug\27.1.14.exe
+E:\C Sharp\27.1.14\27.1.14\obj\x86\Debug\27.1.14.pdb
+Y:\C Sharp\27.1.14\27.1.14\obj\x86\Debug\27.1.14.exe
+Y:\C Sharp\27.1.14\27.1.14\obj\x86\Debug\27.1.14.pdb
+Y:\C Sharp\27.1.14\27.1.14\bin\Debug\27.1.14.exe
+Y:\C Sharp\27.1.14\27.1.14\bin\Debug\27.1.14.pdb
+Y:\C Sharp\27.1.14\27.1.14\obj\x86\Debug\ResolveAssemblyReference.cache
